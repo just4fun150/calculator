@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.port": 5501,
+    "prettier.useTabs": true,
+    "prettier.jsxSingleQuote": false,
+    "prettier.arrowParens": "avoid",
+    "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "prettier.trailingComma": "all",
+    "html.format.extraLiners": ""
+}
